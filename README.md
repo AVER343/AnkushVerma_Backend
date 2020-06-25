@@ -1,6 +1,6 @@
 # bouncingBall
 //install dependencies using npm i
-// start server using node i
+// start server using node app
 POST req -> localhost:5000 
      required -> body:{
              "height":10,
